@@ -1,1 +1,1 @@
-# magic-miniapp
+magicapp
